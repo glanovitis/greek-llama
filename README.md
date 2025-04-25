@@ -1,7 +1,7 @@
 # The wise greek lama
 ## Project background
 
-This was a group project between Clara, Lareen and myself. The goal was to create a llama based llm that could answer our questions in the style of the prosa it was delivered as context, in our case this the ancient greek and latin prosa Iliad, Odyssey and Aeneid. 
+This was a group project between Clara (https://github.com/ClaraLuAld), Lareen (https://github.com/lareengr) and myself. The goal was to create a llama based llm that could answer our questions in the style of the prosa it was delivered as context, in our case this the ancient greek and latin prosa Iliad, Odyssey and Aeneid. 
 
 ## How to set up:
 
