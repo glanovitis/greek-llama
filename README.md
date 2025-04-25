@@ -8,7 +8,7 @@ This was a group project between Clara, Lareen and myself. The goal was to creat
 We got our text files from here: \
 The Iliad: https://www.gutenberg.org/cache/epub/22382/pg22382.txt \
 The Odyssey: https://www.gutenberg.org/cache/epub/1727/pg1727.txt \
-The Aeneid: https://www.gutenberg.org/cache/epub/228/pg228.txt \
+The Aeneid: https://www.gutenberg.org/cache/epub/228/pg228.txt 
 
 Please download the .txt files to your local environment and add them to the folder structure like this:\
 
