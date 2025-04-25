@@ -50,7 +50,10 @@ logs/
 *.log
 
 # Data
+data/*
+!data/.gitkeep
 content/*
+!content/.gitkeep
 data/*
 submissions/*
 
